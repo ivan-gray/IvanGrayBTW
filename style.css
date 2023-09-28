@@ -73,15 +73,17 @@ table, th, td {
 .images {
     border: 5px solid #000;
     background-color: #fff;
-    width: 600px;
-    height: 470x;
+    width: 576px;
+    height: 324px;
 }
+
+
 
 .icon {
     border: 5px solid #000;
     background-color: #fff;
-    width: 350px;
-    height: 350px;
+    width: 324px;
+    height: 324px;
 }
 
 .tall {
@@ -95,6 +97,48 @@ table, th, td {
     border: 5px solid #000;
     width: 300px;
     height: 500px;
+    background-color: #fff;
+}
+
+.stickmin {
+    border: 5px solid #000;
+    width: 324px;
+    height: 493px;
+    background-color: #fff;
+}
+
+.madness {
+    border: 5px solid #000;
+    width: 324px;
+    height: 389px;
+    background-color: #fff;
+}
+
+.stone1 {
+    border: 5px solid #000;
+    width: 350px;
+    height: 576px;
+    background-color: #fff;
+}
+
+.ivan1 {
+    border: 5px solid #000;
+    width: 216px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.boop {
+    border: 5px solid #000;
+    width: 604px;
+    height: 454px;
+    background-color: #fff;
+}
+
+.hilda {
+    border: 5px solid #000;
+    width: 300px;
+    height: 400px;
     background-color: #fff;
 }
 
@@ -207,6 +251,30 @@ h1 {
     max-width: 100%;
     min-width: 10%;
     text-shadow: 10px 10px 20px #000;
+    text-align: center;
 }
 
 
+.jump {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    color: blueviolet;
+    font-size: 50px;
+    font-style: oblique;
+    margin: 20px;
+    width: 1000px;
+    max-width: 100%;
+    min-width: 10%;
+    text-shadow: 10px 10px 20px #000;
+
+}
+
+.jumps {
+    position: relative;
+    text-align: center;
+
+}
+
+.jump:hover {
+    color: #fff;
+}
