@@ -130,8 +130,8 @@ table, th, td {
 
 .boop {
     border: 5px solid #000;
-    width: 604px;
-    height: 454px;
+    width: 538px;
+    height: 404px;
     background-color: #fff;
 }
 
@@ -141,6 +141,119 @@ table, th, td {
     height: 400px;
     background-color: #fff;
 }
+
+.kev1 {
+    border: 5px solid #000;
+    width: 256px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.matthew {
+    border: 5px solid #000;
+    width: 327px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.endo {
+    border: 5px solid #000;
+    width: 269px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.michael {
+    border: 5px solid #000;
+    width: 280px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.branden {
+    border: 5px solid #000;
+    width: 326px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.golemredo {
+    border: 5px solid #000;
+    width: 288px;
+    height: 405px;
+    background-color: #fff;
+}
+
+.ivan2 {
+    border: 5px solid #000;
+    width: 288px;
+    height: 353px;
+    background-color: #fff;
+}
+
+.toyb {
+    border: 5px solid #000;
+    width: 384px;
+    height: 485px;
+    background-color: #fff;
+}
+
+.branden2 {
+    border: 5px solid #000;
+    width: 384px;
+    height: 462px;
+    background-color: #fff;
+}
+
+.ivan3 {
+    border: 5px solid #000;
+    width: 273px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.kev2 {
+    border: 5px solid #000;
+    width: 299px;
+    height: 384px;
+    background-color: #fff;
+}
+
+.boss {
+    border: 5px solid #000;
+    width: 576px;
+    height: 432px;
+    background-color: #fff;
+}
+
+.cc {
+    border: 5px solid #000;
+    width: 376px;
+    height: 524px;
+    background-color: #fff;
+}
+
+.painti {
+    border: 5px solid #000;
+    width: 333px;
+    height: 480px;
+    background-color: #fff;
+}
+
+.ivan4 {
+    border: 5px solid #000;
+    width: 480px;
+    height: 574px;
+    background-color: #fff;
+}
+
+.teatime {
+    border: 5px solid #000;
+    width: 384px;
+    height: 576px;
+    background-color: #fff;
+}
+
 
 .socialmedia {
     position: relative;
